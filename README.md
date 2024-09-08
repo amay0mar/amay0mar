@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/amay0mar/ADlab.git)
-  - [Pen testing AD home lab (still in progress)](https://github.com/amay0mar/HackingActiveDirectory.git)
+  - [Hacking Active Directory (still in progress)](https://github.com/amay0mar/HackingActiveDirectory.git)
 - <b>Certifications</b>
   - [GIAC Foundational Cybersecurity Technologies(GFACT)](https://www.credly.com/badges/f4c2c227-f418-4bf7-b063-2f7aca844abc)
   - [GIAC Information Security Fundamentals(GISF)](https://www.credly.com/badges/217bc267-5ee9-4813-83b9-6ed65c2287b7)
