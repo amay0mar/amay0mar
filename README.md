@@ -8,6 +8,7 @@
   - [GIAC Foundational Cybersecurity Technologies(GFACT)](https://www.credly.com/badges/f4c2c227-f418-4bf7-b063-2f7aca844abc)
   - [GIAC Information Security Fundamentals(GISF)](https://www.credly.com/badges/217bc267-5ee9-4813-83b9-6ed65c2287b7)
   - [GIAC Security Essentials(GSEC)](https://www.credly.com/badges/9359c09f-b5e8-4c9a-8930-a5b30083d805)
+  - [GIAC Certified Incident Handler(GCIH)](https://www.credly.com/badges/7cc3c238-fadf-409b-a8a5-b3c21a70c5bc)
 
 <h2> 🤳 Connect with me:</h2>
 
