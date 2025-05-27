@@ -1,6 +1,6 @@
 <h1>Hi, I'm Omar! <br/><a <a href="https://www.linkedin.com/in/omarvardi/"> Aspiring Cybersecurity Professional</a>,
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects & Engagements:</h2>
 
   - [Active Directory Home Lab](https://github.com/amay0mar/ADlab.git)
   - [SOC Analyst Lab](https://github.com/amay0mar/HackingActiveDirectory.git)
